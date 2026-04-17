@@ -12,3 +12,4 @@
 
 
 ![Моя картинка](image.png)
+theme: jekyll-theme-cayman
